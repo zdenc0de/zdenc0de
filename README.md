@@ -3,7 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=ffffff&height=230&text=Zdenko%20Abarca&fontSize=52&fontAlignY=40&fontColor=4169E1" alt="Header: Zdenko Abarca"/>
 </div>
 
-<div align="center">
+<div align="center" classname="pb-8">
   <a href="https://git.io/typing-svg" aria-label="Typing headline">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=960&height=130&lines=Me+encanta+aprender+cosas+nuevas;Desarrollo+web+y+an%C3%A1lisis+de+datos;Calidad%2C+rendimiento+y+accesibilidad;Construyendo+con+Next.js%2C+TypeScript+y+ROS" alt="Titular animado" />
   </a>
@@ -26,12 +26,12 @@
 
 <br/>
 
-<div align="center">
+### 👨‍💻 Sobre mí
+<div align="center" width="100%">
 <table border="0" width="100%">
 <tr>
 <td width="60%" valign="top">
 
-### 👨‍💻 Sobre mí
 ```yaml
 user: zdenc0de
 location: México 🇲🇽
@@ -223,5 +223,5 @@ _"La tecnología es mejor cuando une a las personas y transforma su mundo."_ �
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,4169E1,000000&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=ffffff&height=230" width="100%"/>
 </div>
