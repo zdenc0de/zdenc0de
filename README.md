@@ -29,7 +29,7 @@
 <div align="center">
 <table border="0" width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="55%" valign="top">
 
 ### 👨‍💻 Sobre mí
 ```yaml
@@ -50,11 +50,10 @@ fun_fact:
   - "I simulate CPU pipelines for fun"
   - "PC Hardware Optimizer"
 ```
-</div>
 
 </td>
-<td width="100%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(65, 105, 225, 0.4);" alt="Gato escribiendo en computadora"/>
+<td width="45%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="90%" style="border-radius: 12px; box-shadow: 0px 2px 14px rgba(65, 105, 225, 0.3);" alt="Gato escribiendo en computadora"/>
 </td>
 </tr>
 </table>
@@ -176,8 +175,16 @@ App interactiva para el estudio de gramática y Kanji.
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zdenc0de&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4169E1&icon_color=4169E1&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdenc0de&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4169E1&text_color=ffffff&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
+  <table width="100%" border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=zdenc0de&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4169E1&icon_color=4169E1&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=7200" alt="GitHub Stats" width="100%"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdenc0de&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4169E1&text_color=ffffff&langs_count=8&hide=jupyter%20notebook&cache_seconds=7200" alt="Top Languages" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
