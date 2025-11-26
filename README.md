@@ -3,9 +3,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=ffffff&height=230&text=Zdenko%20Abarca&fontSize=52&fontAlignY=40&fontColor=4169E1" alt="Header: Zdenko Abarca"/>
 </div>
 
-<div align="center" classname="pb-8">
+<div align="center" >
   <a href="https://git.io/typing-svg" aria-label="Typing headline">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=960&height=130&lines=Me+encanta+aprender+cosas+nuevas;Desarrollo+web+y+an%C3%A1lisis+de+datos;Calidad%2C+rendimiento+y+accesibilidad;Construyendo+con+Next.js%2C+TypeScript+y+ROS" alt="Titular animado" />
+    <img classname="pb-8" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=960&height=130&lines=Me+encanta+aprender+cosas+nuevas;Desarrollo+web+y+an%C3%A1lisis+de+datos;Calidad%2C+rendimiento+y+accesibilidad;Construyendo+con+Next.js%2C+TypeScript+y+ROS" alt="Titular animado" />
   </a>
 </div>
 
@@ -223,5 +223,5 @@ _"La tecnologÃ­a es mejor cuando une a las personas y transforma su mundo."_ ðŸš
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=ffffff&height=230" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=ffffff&height=100" width="100%"/>
 </div>
