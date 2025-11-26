@@ -52,7 +52,7 @@ fun_fact:
 
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="95%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(65, 105, 225, 0.4);" alt="Cat coding"/>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif](https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="95%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(65, 105, 225, 0.4);" alt="Cat coding"/>
 </td>
 </tr>
 </table>
