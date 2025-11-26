@@ -18,6 +18,7 @@
   <a href="mailto:zdenko.abarca@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=zdenc0de&label=Profile%20Views&color=33C4FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
@@ -25,14 +26,17 @@
 <div align="center">
 <table border="0" width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ### 👨‍💻 About Me
 ```yaml
 user: zdenc0de
 location: México 🇲🇽
 role: Full Stack & Robotics Researcher
-languages: [Español, Inglés, 日本語 (N4)]
+languages: 
+  - Español (Native)
+  - English (C1)
+  - 日本語 (N4 Loading...)
 
 current_focus:
   - "Next.js + TypeScript Ecosystem"
@@ -42,55 +46,124 @@ current_focus:
 fun_fact:
   - "I simulate CPU pipelines for fun"
   - "PC Hardware Optimizer"
-</td> <td width="40%" align="center"> <img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" alt="Coding Gif"/> </td> </tr> </table> </div>
+```
+</td>
+<td width="45%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(51, 196, 255, 0.2);" alt="Coding Gif"/>
+</td>
+</tr>
+</table>
+</div>
 
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 
 <div align="center">
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,ts,tailwind,vite,html,css" />
-
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,supabase,postgres,firebase,python,cpp" />
-
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux,ubuntu,arduino,raspberrypi,git,github,vscode" />
-
+  <p><strong>Frontend & Mobile</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,html,css,flutter" />
+  
+  <br/><br/>
+  
+  <p><strong>Backend & Data</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase,python,cpp,mysql" />
+  
+  <br/><br/>
+  
+  <p><strong>Robotics, Tools & OS</strong></p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arduino,raspberrypi,git,github,vscode,ros,tensorflow,docker" />
 </div>
+
+<br/>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center"> <table border="0" width="100%"> <tr> <td width="33%" align="center" valign="top"> <h3>🛍️ try-on</h3> <p><strong>Social Commerce</strong></p> <p>Plataforma de prueba virtual e interacción social.</p> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-black%3Fstyle%3Dflat-square%26logo%3Dnext.js%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Supabase-3ECF8E%3Fstyle%3Dflat-square%26logo%3Dsupabase%26logoColor%3Dwhite" />
-
-
-
-<a href="https://github.com/zdenc0de/try-on"><strong>Explorar Repo »</strong></a> </td> <td width="33%" align="center" valign="top"> <h3>🤖 Autonomous Bot</h3> <p><strong>Delfín Research 2025</strong></p> <p>Pipeline de navegación, SLAM y mapeo autónomo.</p> <img src="https://www.google.com/search?q=https://img.shields.io/badge/ROS-22314E%3Fstyle%3Dflat-square%26logo%3Dros%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LiDAR-red%3Fstyle%3Dflat-square" />
-
-
-
-<a href="#"><strong>Ver Investigación »</strong></a> </td> <td width="33%" align="center" valign="top"> <h3>🇯🇵 Nihongo App</h3> <p><strong>JLPT N4 Tool</strong></p> <p>App interactiva para el estudio de gramática y Kanji.</p> <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3D61DAFB" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Vite-646CFF%3Fstyle%3Dflat-square%26logo%3Dvite%26logoColor%3Dwhite" />
-
-
-
-<a href="#"><strong>Ver Demo »</strong></a> </td> </tr> </table> </div>
+<div align="center">
+<table border="0" width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+  <h3>🛍️ try-on</h3>
+  <p><strong>Social Commerce</strong></p>
+  <p>Plataforma de prueba virtual e interacción social.</p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <br/><br/>
+  <a href="https://github.com/zdenc0de/try-on"><strong>Explorar Repo »</strong></a>
+</td>
+<td width="33%" align="center" valign="top">
+  <h3>🤖 Autonomous Bot</h3>
+  <p><strong>Delfín Research 2025</strong></p>
+  <p>Pipeline de navegación, SLAM y mapeo autónomo.</p>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiDAR-red?style=flat-square" />
+  <br/><br/>
+  <a href="#"><strong>Ver Investigación »</strong></a>
+</td>
+<td width="33%" align="center" valign="top">
+  <h3>🇯🇵 Nihongo App</h3>
+  <p><strong>JLPT N4 Tool</strong></p>
+  <p>App interactiva para el estudio de gramática y Kanji.</p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <br/><br/>
+  <a href="#"><strong>Ver Demo »</strong></a>
+</td>
+</tr>
+</table>
+</div>
 
 <h2 align="center">🏆 Experience & Achievements</h2>
 
-<table width="100%"> <tr> <td width="50%" valign="top"> <h3>🔬 Programa Delfín 2025</h3> <h4>Robotics Research Intern</h4> <ul> <li>Desarrollo de navegación autónoma con <strong>ROS</strong>.</li> <li>Implementación de algoritmos de <strong>Path Planning</strong>.</li> <li>Integración de sensores <strong>LiDAR</strong> en Jetson Nano.</li> </ul> </td> <td width="50%" valign="top"> <h3>🎓 Samsung Innovation Campus</h3> <h4>AI & Machine Learning Fellow</h4> <ul> <li>Detección médica usando <strong>TensorFlow</strong>.</li> <li>Computer Vision y procesamiento de datos.</li> <li>Certificación en Big Data e Inteligencia Artificial.</li> </ul> </td> </tr> </table>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <h3>🔬 Programa Delfín 2025</h3>
+  <h4>Robotics Research Intern</h4>
+  <ul>
+    <li>Desarrollo de navegación autónoma con <strong>ROS</strong>.</li>
+    <li>Implementación de algoritmos de <strong>Path Planning</strong>.</li>
+    <li>Integración de sensores <strong>LiDAR</strong> en Jetson Nano.</li>
+  </ul>
+</td>
+<td width="50%" valign="top">
+  <h3>🎓 Samsung Innovation Campus</h3>
+  <h4>AI & Machine Learning Fellow</h4>
+  <ul>
+    <li>Detección médica usando <strong>TensorFlow</strong>.</li>
+    <li>Computer Vision y procesamiento de datos.</li>
+    <li>Certificación en Big Data e Inteligencia Artificial.</li>
+  </ul>
+</td>
+</tr>
+</table>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zdenc0de&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=33C4FF&icon_color=33C4FF&text_color=ffffff&count_private=true&include_all_commits=true" height="180" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dzdenc0de%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D33C4FF%26text_color%3Dffffff%26langs_count%3D6%26hide%3Djupyter%2520notebook" height="180" /> </div>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=zdenc0de&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=33C4FF&icon_color=33C4FF&text_color=ffffff&count_private=true&include_all_commits=true" height="180" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdenc0de&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=33C4FF&text_color=ffffff&langs_count=6&hide=jupyter%20notebook" height="180" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdenc0de&theme=tokyonight&hide_border=true&background=0D1117&stroke=33C4FF&ring=33C4FF&fire=33C4FF&currStreakLabel=33C4FF" />
+</div>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdenc0de&theme=tokyonight&hide_border=true&background=0D1117&stroke=33C4FF&ring=33C4FF&fire=33C4FF&currStreakLabel=33C4FF" /> </div>
-
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zdenc0de/zdenc0de/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zdenc0de/zdenc0de/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zdenc0de/zdenc0de/output/github-contribution-grid-snake.svg"> </picture> </div>
+<br/>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zdenc0de/zdenc0de/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zdenc0de/zdenc0de/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zdenc0de/zdenc0de/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-
-"La tecnología es mejor cuando une a las personas y transforma su mundo." 🚀
-
-
-
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0d1117,161b22,0d1117%26height%3D100%26section%3Dfooter" width="100%"/> </div>
+<div align="center">
+  <br/>
+  <i>"La tecnología es mejor cuando une a las personas y transforma su mundo." 🚀</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,0d1117&height=100&section=footer" width="100%"/>
+</div>
