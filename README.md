@@ -5,7 +5,7 @@
 
 <div align="center" >
   <a href="https://git.io/typing-svg" aria-label="Typing headline">
-    <img classname="pb-8" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=960&height=130&lines=Me+encanta+aprender+cosas+nuevas;Desarrollo+web+y+an%C3%A1lisis+de+datos;Calidad%2C+rendimiento+y+accesibilidad;Construyendo+con+Next.js%2C+TypeScript+y+ROS" alt="Titular animado" />
+    <img classname="pb-8" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=960&height=130&lines=Me+encanta+aprender+cosas+nuevas;Desarrollo+web+y+an%C3%A1lisis+de+datos;Calidad%2C+rendimiento+y+accesibilidad" alt="Titular animado" />
   </a>
 </div>
 
