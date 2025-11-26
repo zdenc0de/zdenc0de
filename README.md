@@ -52,7 +52,7 @@ fun_fact:
 ```
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="80%" align="center" valign="middle">
   <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="100%" style="border-radius: 12px; box-shadow: 0px 2px 14px rgba(65, 105, 225, 0.3);" alt="Gato escribiendo en computadora"/>
 </td>
 </tr>
@@ -199,10 +199,6 @@ App interactiva para el estudio de gramática y Kanji.
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zdenc0de&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4169E1&line=4169E1&point=ffffff" width="98%" alt="Activity Graph"/>
 </div>
-
----
-
-<!-- Removed snake animation; replaced with interactive activity graph above -->
 
 ---
 
