@@ -32,7 +32,6 @@
 <td width="60%" valign="top">
 
 ### 👨‍💻 Sobre mí
-<div style="font-size:16px">
 ```yaml
 user: zdenc0de
 location: México 🇲🇽
