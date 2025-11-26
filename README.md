@@ -1,11 +1,11 @@
 <div align="center">
-  <!-- Header simplified to avoid rendering glitches -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=000000&height=220&text=Zdenko%20Abarca&fontSize=50&fontAlignY=40&fontColor=4169E1" alt="Header: Zdenko Abarca"/>
+  <!-- Header with refined black ↔ royal blue gradient -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&customColorList=000000,0a0f1e,1e2a44,4169E1,1e2a44,0a0f1e,000000&height=230&text=Zdenko%20Abarca&fontSize=52&fontAlignY=40&fontColor=4169E1" alt="Header: Zdenko Abarca"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+the+future+with+Next.js+%26+ROS+🚀;Dev+from+Mexico+🇲🇽;Training+for+JLPT+N4+🇯🇵;Optimizing+Code+%26+Hardware+💻" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg" aria-label="Typing headline">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Full+Stack+y+Rob%C3%B3tica;Next.js+%2B+ROS;Aprendizaje+continuo;C%C3%B3digo+y+hardware+%C3%B3ptimos" alt="Titular animado" />
   </a>
 </div>
 
@@ -29,9 +29,10 @@
 <div align="center">
 <table border="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 ### 👨‍💻 Sobre mí
+<div style="font-size:16px">
 ```yaml
 user: zdenc0de
 location: México 🇲🇽
@@ -50,10 +51,11 @@ fun_fact:
   - "I simulate CPU pipelines for fun"
   - "PC Hardware Optimizer"
 ```
+</div>
 
 </td>
-<td width="45%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="95%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(65, 105, 225, 0.4);" alt="Gato escribiendo en computadora"/>
+<td width="40%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(65, 105, 225, 0.4);" alt="Gato escribiendo en computadora"/>
 </td>
 </tr>
 </table>
