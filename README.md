@@ -1,11 +1,11 @@
 <div align="center">
-  <!-- Header with refined black ↔ royal blue gradient -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&customColorList=000000,0a0f1e,1e2a44,4169E1,1e2a44,0a0f1e,000000&height=230&text=Zdenko%20Abarca&fontSize=52&fontAlignY=40&fontColor=00008B" alt="Header: Zdenko Abarca"/>
+  <!-- Header set to white with royal blue text to match brand -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=ffffff&height=230&text=Zdenko%20Abarca&fontSize=52&fontAlignY=40&fontColor=4169E1" alt="Header: Zdenko Abarca"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg" aria-label="Typing headline">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Full+Stack+y+Rob%C3%B3tica;Next.js+%2B+ROS;Aprendizaje+continuo;C%C3%B3digo+y+hardware+%C3%B3ptimos" alt="Titular animado" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=960&height=130&lines=Me+encanta+aprender+cosas+nuevas;Desarrollo+web+y+an%C3%A1lisis+de+datos;Calidad%2C+rendimiento+y+accesibilidad;Construyendo+con+Next.js%2C+TypeScript+y+ROS" alt="Titular animado" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@
 <div align="center">
 <table border="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 ### 👨‍💻 Sobre mí
 ```yaml
@@ -52,8 +52,8 @@ fun_fact:
 ```
 
 </td>
-<td width="45%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="90%" style="border-radius: 12px; box-shadow: 0px 2px 14px rgba(65, 105, 225, 0.3);" alt="Gato escribiendo en computadora"/>
+<td width="40%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="100%" style="border-radius: 12px; box-shadow: 0px 2px 14px rgba(65, 105, 225, 0.3);" alt="Gato escribiendo en computadora"/>
 </td>
 </tr>
 </table>
@@ -174,17 +174,16 @@ App interactiva para el estudio de gramática y Kanji.
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
+<!-- Reemplazo: algunas tarjetas fallan por rate limits; usamos streak + summary más estables -->
 <div align="center">
-  <table width="100%" border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=zdenc0de&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4169E1&icon_color=4169E1&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=7200" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdenc0de&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4169E1&text_color=ffffff&langs_count=8&hide=jupyter%20notebook&cache_seconds=7200" alt="Top Languages" width="100%"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdenc0de&theme=tokyonight&hide_border=true&background=0D1117&stroke=4169E1&ring=4169E1&fire=4169E1&currStreakLabel=4169E1" alt="GitHub Streak" width="98%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zdenc0de&theme=tokyonight" alt="Resumen de estadísticas" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zdenc0de&theme=tokyonight" alt="Repos por lenguaje" width="49%"/>
 </div>
 
 <br/>
