@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header with refined black ↔ royal blue gradient -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&customColorList=000000,0a0f1e,1e2a44,4169E1,1e2a44,0a0f1e,000000&height=230&text=Zdenko%20Abarca&fontSize=52&fontAlignY=40&fontColor=4169E1" alt="Header: Zdenko Abarca"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&customColorList=000000,0a0f1e,1e2a44,4169E1,1e2a44,0a0f1e,000000&height=230&text=Zdenko%20Abarca&fontSize=52&fontAlignY=40&fontColor=00008B" alt="Header: Zdenko Abarca"/>
 </div>
 
 <div align="center">
@@ -26,10 +26,10 @@
 
 <br/>
 
-<div align="center">
+<div align="center" width="100%">
 <table border="0" width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="100%" valign="top">
 
 ### 👨‍💻 Sobre mí
 ```yaml
