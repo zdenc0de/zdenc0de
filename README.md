@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,4169E1,000000&height=250&section=header&text=Zdenko%20Abarca&fontSize=50&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20Robotics&descAlignY=55&descAlign=50&animation=twinkling&fontColor=4169E1" alt="Header Wave"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,4169E1,000000&height=250&section=header&text=Zdenko%20Abarca&fontSize=50&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20Robotics&descAlignY=55&descAlign=50&animation=twinkling&fontColor=4169E1" alt="Zdenko Abarca - Computer Engineering Student, Full Stack and Robotics Developer"/>
 </div>
 
 <div align="center">
@@ -24,13 +24,12 @@
 </div>
 
 <br/>
-
+### 👨‍💻 Sobre mí
 <div align="center">
 <table border="0" width="100%">
 <tr>
 <td width="55%" valign="top">
 
-### 👨‍💻 Sobre mí
 ```yaml
 user: zdenc0de
 location: México 🇲🇽
@@ -42,12 +41,8 @@ languages:
 
 current_focus:
   - "Next.js + TypeScript Ecosystem"
-  - "Autonomous Navigation (LiDAR/ROS)"
   - "Computer Vision & AI"
 
-fun_fact:
-  - "I simulate CPU pipelines for fun"
-  - "PC Hardware Optimizer"
 ```
 
 </td>
