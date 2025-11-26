@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,4169E1,000000&height=250&section=header&text=Zdenko%20Abarca&fontSize=50&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20Robotics&descAlignY=55&descAlign=50&animation=twinkling&fontColor=4169E1" alt="Header Wave"/>
+  <!-- Header simplified to avoid rendering glitches -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=000000&height=220&text=Zdenko%20Abarca&fontSize=50&fontAlignY=40&fontColor=4169E1" alt="Header: Zdenko Abarca"/>
 </div>
 
 <div align="center">
@@ -52,7 +53,7 @@ fun_fact:
 
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="95%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(65, 105, 225, 0.4);" alt="Cat coding"/>
+  <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="95%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(65, 105, 225, 0.4);" alt="Gato escribiendo en computadora"/>
 </td>
 </tr>
 </table>
@@ -194,15 +195,7 @@ App interactiva para el estudio de gramática y Kanji.
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zdenc0de/zdenc0de/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zdenc0de/zdenc0de/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zdenc0de/zdenc0de/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
+<!-- Removed snake animation; replaced with interactive activity graph above -->
 
 ---
 
