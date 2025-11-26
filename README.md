@@ -53,7 +53,7 @@ fun_fact:
 </div>
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="100%" align="center" valign="middle">
   <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(65, 105, 225, 0.4);" alt="Gato escribiendo en computadora"/>
 </td>
 </tr>
