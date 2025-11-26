@@ -26,7 +26,7 @@
 
 <br/>
 
-<div align="center" width="100%">
+<div align="center">
 <table border="0" width="100%">
 <tr>
 <td width="100%" valign="top">
