@@ -1,10 +1,11 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,4169E1,000000&height=250&section=header&text=Zdenko%20Abarca&fontSize=50&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20Robotics&descAlignY=55&descAlign=50&animation=twinkling&fontColor=4169E1" alt="Zdenko Abarca - Computer Engineering Student, Full Stack and Robotics Developer"/>
+  <!-- Fallback header graphic simplified to avoid rendering issues -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Zdenko%20Abarca&fontSize=50&fontAlignY=40&desc=Full%20Stack%20%7C%20Robotics&descAlignY=70&fontColor=4169E1" alt="Header: Zdenko Abarca"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+the+future+with+Next.js+%26+ROS+🚀;Dev+from+Mexico+🇲🇽;Training+for+JLPT+N4+🇯🇵;Optimizing+Code+%26+Hardware+💻" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg" aria-label="Typing headline">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=95&lines=Construyendo+futuro+con+Next.js+%26+ROS;Desarrollador+desde+México;Preparando+JLPT+N4;Optimizando+Código+%26+Hardware" alt="Headline animado" />
   </a>
 </div>
 
@@ -24,7 +25,7 @@
 </div>
 
 <br/>
-### 👨‍💻 Sobre mí
+### Sobre mí
 <div align="center">
 <table border="0" width="100%">
 <tr>
@@ -47,7 +48,7 @@ current_focus:
 
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="95%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(65, 105, 225, 0.4);" alt="Cat coding"/>
+  <img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width="95%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(65, 105, 225, 0.4);" alt="Gato escribiendo en computadora"/>
 </td>
 </tr>
 </table>
@@ -55,7 +56,7 @@ current_focus:
 
 ---
 
-<h2 align="center">🛠️ Stack Tecnológico</h2>
+<h2 align="center">Stack Tecnológico</h2>
 
 <div align="center">
 
@@ -79,14 +80,14 @@ current_focus:
 
 ---
 
-<h2 align="center">🚀 Proyectos Destacados</h2>
+<h2 align="center">Proyectos Destacados</h2>
 
 <div align="center">
 <table border="0" width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🛍️ try-on
+### try-on
 **Social Commerce**
 
 Plataforma de prueba virtual e interacción social.
@@ -101,7 +102,7 @@ Plataforma de prueba virtual e interacción social.
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🤖 Autonomous Bot
+### Autonomous Bot
 **Delfín Research 2025**
 
 Pipeline de navegación, SLAM y mapeo autónomo.
@@ -116,7 +117,7 @@ Pipeline de navegación, SLAM y mapeo autónomo.
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🇯🇵 Nihongo App
+### Nihongo App
 **JLPT N4 Tool**
 
 App interactiva para el estudio de gramática y Kanji.
@@ -135,7 +136,7 @@ App interactiva para el estudio de gramática y Kanji.
 
 ---
 
-<h2 align="center">🏆 Experiencia Académica</h2>
+<h2 align="center">Experiencia Académica</h2>
 
 <table width="100%" border="0">
 <tr>
@@ -166,7 +167,7 @@ App interactiva para el estudio de gramática y Kanji.
 
 ---
 
-<h2 align="center">📊 Estadísticas de GitHub</h2>
+<h2 align="center">Estadísticas de GitHub</h2>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zdenc0de&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4169E1&icon_color=4169E1&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
@@ -182,7 +183,7 @@ App interactiva para el estudio de gramática y Kanji.
 
 ---
 
-<h2 align="center">🐍 Contribution Activity</h2>
+<h2 align="center">Actividad de Contribuciones</h2>
 
 <div align="center">
   <picture>
@@ -194,7 +195,7 @@ App interactiva para el estudio de gramática y Kanji.
 
 ---
 
-<h2 align="center">📫 Conectemos</h2>
+<h2 align="center">Conectemos</h2>
 
 <div align="center">
 
