@@ -1,165 +1,96 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zdenko%20Abarca&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Robotics%20Researcher&descAlignY=51&descAlign=50&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,0d1117&height=250&section=header&text=Zdenko%20Abarca&fontSize=50&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20Robotics&descAlignY=55&descAlign=50&animation=twinkling&fontColor=33C4FF" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=33C4FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Building+the+Future+with+Code+🚀;Web+Developer+%7C+AI+Enthusiast+%7C+Robotics+Researcher" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33C4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+the+future+with+Next.js+%26+ROS+%F0%9F%9A%80;Dev+from+Mexico+%F0%9F%87%B2%F0%9F%87%BD;Training+for+JLPT+N4+%F0%9F%87%AF%F0%9F%87%B5;Optimizing+Code+%26+Hardware+%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/zdenko-abarca">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://zdenc0de.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="mailto:zdenko.abarca@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zdenko-abarca)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zdenc0de.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zdenko.abarca@example.com)
-![Profile Views](https://komarev.com/ghpvc/?username=zdenc0de&color=33C4FF&style=for-the-badge&label=Profile+Views)
+<table border="0" width="100%">
+<tr>
+<td width="60%" valign="top">
 
-</div>
-
----
-
-## 👋 Sobre Mí
+### 👨‍💻 About Me
 ```yaml
-nombre: Zdenko Abarca
-ubicacion: México 🇲🇽
-rol: Full Stack Developer & Robotics Researcher
-educacion: Ingeniería en Computación
-idiomas: [Español, Inglés, 日本語 (N4)]
+user: zdenc0de
+location: México 🇲🇽
+role: Full Stack & Robotics Researcher
+languages: [Español, Inglés, 日本語 (N4)]
 
-enfoque_actual:
-  - Web Full Stack con Next.js + TypeScript
-  - Sistemas de Navegación Autónoma con LiDAR
-  - IA aplicada a visión por computadora
+current_focus:
+  - "Next.js + TypeScript Ecosystem"
+  - "Autonomous Navigation (LiDAR/ROS)"
+  - "Computer Vision & AI"
 
-actualmente_aprendiendo: "JLPT N4 + Arquitectura avanzada en Next.js"
-curiosidad: "Me encanta optimizar PCs y crear simulaciones de robots"
-```
+fun_fact:
+  - "I simulate CPU pipelines for fun"
+  - "PC Hardware Optimizer"
+</td> <td width="40%" align="center"> <img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" alt="Coding Gif"/> </td> </tr> </table> </div>
 
----
-
-## 🎯 Focus Areas (2025)
-
-- 🌐 Desarrollo de aplicaciones full stack con **TypeScript**
-- 🤖 Percepción y navegación autónoma usando **LiDAR + ROS**
-- 🧠 Proyectos de **IA y Computer Vision**
-- 📚 Creación de herramientas para aprendizaje (JLPT App)
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🛍️ try-on — Social Commerce + Virtual Try-On
-Plataforma social con interacción visual y prueba virtual.  
-**Tech:** Next.js, TypeScript, Supabase  
-🔗 [Ver Proyecto](https://github.com/zdenc0de/try-on)
-
-### 🤖 Autonomous Navigation — Robotics Research (Programa Delfín 2025)
-Pipeline de mapeo, localización y planeación con LiDAR.  
-**Tech:** ROS, C++, Python
-
-### 🇯🇵 JLPT N4 Learning App
-Aplicación interactiva para estudiar japonés (en desarrollo).  
-**Tech:** React, Vite, Tailwind CSS
-
----
-
-## 🛠️ Stack Tecnológico
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### ⚙️ Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 Robótica & AI
-
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zdenc0de&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=33C4FF&icon_color=33C4FF&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdenc0de&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=33C4FF&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdenc0de&theme=tokyonight&hide_border=true&background=0D1117&stroke=33C4FF&ring=33C4FF&fire=33C4FF&currStreakLabel=33C4FF" />
-</div>
-
----
-
-## 🌟 Skills Overview
-
-<div align="center">
-```mermaid
-mindmap
-  root((Zdenko<br/>Abarca))
-    Web Development
-      React
-      Next.js
-      TypeScript
-    Robotics
-      ROS
-      LiDAR
-      Navigation
-    AI
-      TensorFlow
-      Computer Vision
-    Languages
-      Spanish
-      English
-      Japanese (N4)
-```
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zdenc0de/zdenc0de/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zdenc0de/zdenc0de/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zdenc0de/zdenc0de/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 📫 Conectemos
+<h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 
 <div align="center">
 
-### 💬 Abierto a colaboraciones y oportunidades
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,ts,tailwind,vite,html,css" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zdenko-abarca)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zdenko.abarca@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zdenc0de.github.io)
 
-<br/><br/>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,supabase,postgres,firebase,python,cpp" />
 
-**"La tecnología es mejor cuando une a las personas y transforma su mundo."** 🚀
+
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux,ubuntu,arduino,raspberrypi,git,github,vscode" />
 
 </div>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center"> <table border="0" width="100%"> <tr> <td width="33%" align="center" valign="top"> <h3>🛍️ try-on</h3> <p><strong>Social Commerce</strong></p> <p>Plataforma de prueba virtual e interacción social.</p> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-black%3Fstyle%3Dflat-square%26logo%3Dnext.js%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Supabase-3ECF8E%3Fstyle%3Dflat-square%26logo%3Dsupabase%26logoColor%3Dwhite" />
+
+
+
+<a href="https://github.com/zdenc0de/try-on"><strong>Explorar Repo »</strong></a> </td> <td width="33%" align="center" valign="top"> <h3>🤖 Autonomous Bot</h3> <p><strong>Delfín Research 2025</strong></p> <p>Pipeline de navegación, SLAM y mapeo autónomo.</p> <img src="https://www.google.com/search?q=https://img.shields.io/badge/ROS-22314E%3Fstyle%3Dflat-square%26logo%3Dros%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LiDAR-red%3Fstyle%3Dflat-square" />
+
+
+
+<a href="#"><strong>Ver Investigación »</strong></a> </td> <td width="33%" align="center" valign="top"> <h3>🇯🇵 Nihongo App</h3> <p><strong>JLPT N4 Tool</strong></p> <p>App interactiva para el estudio de gramática y Kanji.</p> <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3D61DAFB" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Vite-646CFF%3Fstyle%3Dflat-square%26logo%3Dvite%26logoColor%3Dwhite" />
+
+
+
+<a href="#"><strong>Ver Demo »</strong></a> </td> </tr> </table> </div>
+
+<h2 align="center">🏆 Experience & Achievements</h2>
+
+<table width="100%"> <tr> <td width="50%" valign="top"> <h3>🔬 Programa Delfín 2025</h3> <h4>Robotics Research Intern</h4> <ul> <li>Desarrollo de navegación autónoma con <strong>ROS</strong>.</li> <li>Implementación de algoritmos de <strong>Path Planning</strong>.</li> <li>Integración de sensores <strong>LiDAR</strong> en Jetson Nano.</li> </ul> </td> <td width="50%" valign="top"> <h3>🎓 Samsung Innovation Campus</h3> <h4>AI & Machine Learning Fellow</h4> <ul> <li>Detección médica usando <strong>TensorFlow</strong>.</li> <li>Computer Vision y procesamiento de datos.</li> <li>Certificación en Big Data e Inteligencia Artificial.</li> </ul> </td> </tr> </table>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zdenc0de&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=33C4FF&icon_color=33C4FF&text_color=ffffff&count_private=true&include_all_commits=true" height="180" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dzdenc0de%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D33C4FF%26text_color%3Dffffff%26langs_count%3D6%26hide%3Djupyter%2520notebook" height="180" /> </div>
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdenc0de&theme=tokyonight&hide_border=true&background=0D1117&stroke=33C4FF&ring=33C4FF&fire=33C4FF&currStreakLabel=33C4FF" /> </div>
+
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zdenc0de/zdenc0de/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zdenc0de/zdenc0de/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zdenc0de/zdenc0de/output/github-contribution-grid-snake.svg"> </picture> </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+
+
+"La tecnología es mejor cuando une a las personas y transforma su mundo." 🚀
+
+
+
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0d1117,161b22,0d1117%26height%3D100%26section%3Dfooter" width="100%"/> </div>
