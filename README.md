@@ -5,7 +5,7 @@
 
 <div align="center" >
   <a href="https://git.io/typing-svg" aria-label="Typing headline">
-    <img classname="pb-8" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=960&height=130&lines=Me+encanta+aprender+cosas+nuevas;Desarrollo+web+y+an%C3%A1lisis+de+datos;Calidad%2C+rendimiento+y+accesibilidad" alt="Titular animado" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=960&height=130&lines=I+love+learning+new+things;Web+development+and+data+analysis;Quality%2C+performance%2C+accessibility" alt="Animated headline" />
   </a>
 </div>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-<h2 align="center">👨‍💻 Sobre mí</h2>
+<h2 align="center">About Me</h2>
 <div align="center" width="100%">
 <table border="0" width="100%">
 <tr>
@@ -34,21 +34,21 @@
 
 ```yaml
 user: zdenc0de
-location: México 🇲🇽
+location: Mexico
 role: Full Stack & Robotics Researcher
 languages:
-  - Español (Native)
+  - Spanish (Native)
   - English (C1)
   - 日本語 (N4 Loading...)
 
 current_focus:
-  - "Next.js + TypeScript Ecosystem"
-  - "Autonomous Navigation (LiDAR/ROS)"
-  - "Computer Vision & AI"
+  - Next.js + TypeScript Ecosystem
+  - Autonomous Navigation (LiDAR/ROS)
+  - Computer Vision & AI
 
 fun_fact:
-  - "I simulate CPU pipelines for fun"
-  - "PC Hardware Optimizer"
+  - I simulate CPU pipelines for fun
+  - PC Hardware Optimizer
 ```
 
 </td>
@@ -61,7 +61,7 @@ fun_fact:
 
 ---
 
-<h2 align="center">🛠️ Stack Tecnológico</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -85,17 +85,17 @@ fun_fact:
 
 ---
 
-<h2 align="center">🚀 Proyectos Destacados</h2>
+<h2 align="center">Featured Projects</h2>
 
 <div align="center">
 <table border="0" width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🛍️ try-on
+### try-on
 **Social Commerce**
 
-Plataforma de prueba virtual e interacción social.
+Virtual try-on platform with social interaction.
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -107,10 +107,10 @@ Plataforma de prueba virtual e interacción social.
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🤖 Autonomous Bot
+### Autonomous Bot
 **Delfín Research 2025**
 
-Pipeline de navegación, SLAM y mapeo autónomo.
+Autonomous navigation pipeline with SLAM and mapping.
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -122,10 +122,10 @@ Pipeline de navegación, SLAM y mapeo autónomo.
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🇯🇵 Nihongo App
+### Nihongo App
 **JLPT N4 Tool**
 
-App interactiva para el estudio de gramática y Kanji.
+Interactive app for grammar and Kanji study.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -141,30 +141,30 @@ App interactiva para el estudio de gramática y Kanji.
 
 ---
 
-<h2 align="center">🏆 Experiencia Académica</h2>
+<h2 align="center">Academic Experience</h2>
 
 <table width="100%" border="0">
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 Programa Delfín 2025
+### Programa Delfín 2025
 **Robotics Research Intern**
 
-- ✅ Desarrollo de navegación autónoma con **ROS**
-- ✅ Implementación de algoritmos de **Path Planning**
-- ✅ Integración de sensores **LiDAR** en Jetson Nano
-- ✅ Mapeo y localización con **SLAM**
+- Autonomous navigation with **ROS**
+- **Path Planning** algorithms implementation
+- **LiDAR** sensor integration on Jetson Nano
+- Mapping and localization with **SLAM**
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Samsung Innovation Campus
+### Samsung Innovation Campus
 **AI & Machine Learning Fellow**
 
-- ✅ Detección médica usando **TensorFlow**
-- ✅ Computer Vision y procesamiento de datos
-- ✅ Fundamentos de Redes Neuronales
-- ✅ Certificación en Big Data e IA
+- Medical detection using **TensorFlow**
+- Computer Vision and data processing
+- Neural Networks foundations
+- Big Data and AI certification
 
 </td>
 </tr>
