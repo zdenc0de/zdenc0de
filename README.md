@@ -12,13 +12,13 @@
 <br/>
 
 <div align="center" classname="pt-8">
-  <a href="https://linkedin.com/in/zdenko-abarca" aria-label="LinkedIn">
+  <a href="https://www.linkedin.com/in/zdenko-abarca-209050355/" aria-label="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
   </a>
-  <a href="https://zdenc0de.github.io" aria-label="Portfolio">
+  <a href="https://zdenko-abarca-portafolio.vercel.app/" aria-label="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio badge"/>
   </a>
-  <a href="mailto:zdenko.abarca@example.com" aria-label="Email">
+  <a href="mailto:zdenkocruz04@gmail.com" aria-label="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=zdenc0de&label=Views&color=4169E1&style=for-the-badge" alt="Profile views" />
@@ -35,20 +35,19 @@
 ```yaml
 user: zdenc0de
 location: Mexico
-role: Full Stack & Robotics Researcher
+role: Computer Engineer Student | Bosch Intern
 languages:
   - Spanish (Native)
-  - English (C1)
+  - English (B2)
   - 日本語 (N4 Loading...)
 
 current_focus:
   - Next.js + TypeScript Ecosystem
-  - Autonomous Navigation (LiDAR/ROS)
+  - Data Analysis
   - Computer Vision & AI
 
 fun_fact:
-  - I simulate CPU pipelines for fun
-  - PC Hardware Optimizer
+  - I have just won my first hackaton!!
 ```
 
 </td>
@@ -67,19 +66,19 @@ fun_fact:
 
 **Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,html,css,flutter" alt="Frontend Icons"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,html,css" alt="Frontend Icons"/>
 
 <br/><br/>
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase,python,cpp,mysql" alt="Backend Icons"/>
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase,python,mysql" alt="Backend Icons"/>
 
 <br/><br/>
 
 **Robotics, AI & Tools**
 
-<img src="https://skillicons.dev/icons?i=ros,tensorflow,opencv,linux,ubuntu,arduino,raspberrypi,git,github,vscode,docker" alt="Robotics Icons"/>
+<img src="https://skillicons.dev/icons?i=ros,tensorflow,git,github,vscode" alt="Robotics Icons"/>
 
 </div>
 
@@ -95,14 +94,14 @@ fun_fact:
 ### try-on
 **Social Commerce**
 
-Virtual try-on platform with social interaction.
+Virtual try-on platform with social interaction. Hackaton Project Winner
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 <br/>
 
-[**Explorar Repo →**](https://github.com/zdenc0de/try-on)
+[**Explore →**](https://github.com/zdenc0de/try-on)
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -110,14 +109,14 @@ Virtual try-on platform with social interaction.
 ### Autonomous Bot
 **Delfín Research 2025**
 
-Autonomous navigation pipeline with SLAM and mapping.
+Autonomous navigation with SLAM and mapping.
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 <br/>
 
-[**Ver Investigación →**](#)
+[**Explore →**](https://github.com/zdenc0de/autonomous-cart)
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -125,14 +124,14 @@ Autonomous navigation pipeline with SLAM and mapping.
 ### Nihongo App
 **JLPT N4 Tool**
 
-Interactive app for grammar and Kanji study.
+Interactive app for grammar and Kanji study. Demo
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 <br/>
 
-[**Ver Demo →**](#)
+[**Explore Demo →**](https://github.com/zdenc0de/nihongo-app)
 
 </td>
 </tr>
@@ -172,9 +171,8 @@ Interactive app for grammar and Kanji study.
 
 ---
 
-<h2 align="center">📊 Estadísticas de GitHub</h2>
+<h2 align="center">GitHub Statistics</h2>
 
-<!-- Reemplazo: algunas tarjetas fallan por rate limits; usamos streak + summary más estables -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdenc0de&theme=tokyonight&hide_border=true&background=0D1117&stroke=4169E1&ring=4169E1&fire=4169E1&currStreakLabel=4169E1" alt="GitHub Streak" width="98%"/>
 </div>
@@ -194,7 +192,7 @@ Interactive app for grammar and Kanji study.
 
 ---
 
-<h2 align="center">📈 Actividad de Contribuciones</h2>
+<h2 align="center">Contributions Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zdenc0de&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4169E1&line=4169E1&point=ffffff" width="98%" alt="Activity Graph"/>
@@ -202,19 +200,19 @@ Interactive app for grammar and Kanji study.
 
 ---
 
-<h2 align="center">📫 Conectemos</h2>
+<h2 align="center">Get in touch!</h2>
 
 <div align="center">
 
-### 💬 Siempre abierto a nuevas oportunidades y colaboraciones
+### I'm always open to discussing new projects, internship opportunities, or just chatting about tech. Feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zdenko-abarca)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zdenko.abarca@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zdenc0de.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zdenko-abarca-209050355/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zdenkocruz04@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zdenko-abarca-portafolio.vercel.app/)
 
 <br/>
 
-_"La tecnología es mejor cuando une a las personas y transforma su mundo."_ 🚀
+_"Always a Learner"
 
 </div>
 
