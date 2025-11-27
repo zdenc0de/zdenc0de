@@ -173,10 +173,6 @@ Interactive app for grammar and Kanji study. Demo
 
 <h2 align="center">GitHub Statistics</h2>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdenc0de&theme=tokyonight&hide_border=true&background=0D1117&stroke=4169E1&ring=4169E1&fire=4169E1&currStreakLabel=4169E1" alt="GitHub Streak" width="98%"/>
-</div>
-
 <br/>
 
 <div align="center">
@@ -185,10 +181,6 @@ Interactive app for grammar and Kanji study. Demo
 </div>
 
 <br/>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=zdenc0de&theme=tokyonight&hide_border=true&background=0D1117&stroke=4169E1&ring=4169E1&fire=4169E1&currStreakLabel=4169E1" alt="GitHub Streak"/>
-</div>
 
 ---
 
@@ -212,7 +204,7 @@ Interactive app for grammar and Kanji study. Demo
 
 <br/>
 
-_"Always a Learner"
+"Always a Learner"
 
 </div>
 
