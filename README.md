@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Header set to white with royal blue text to match brand -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=ffffff&height=230&text=Zdenko%20Abarca&fontSize=52&fontAlignY=40&fontColor=4169E1" alt="Header: Zdenko Abarca"/>
 </div>
 
@@ -35,7 +34,7 @@
 ```yaml
 user: zdenc0de
 location: Mexico
-role: Computer Engineer Student | Bosch Intern
+role: Computer Engineering Student | Bosch Intern
 languages:
   - Spanish (Native)
   - English (B2)
