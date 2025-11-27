@@ -64,9 +64,9 @@ fun_fact:
 
 <div align="center">
 
-**Frontend & Mobile**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,html,css" alt="Frontend Icons"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,html,css,javascript" alt="Frontend Icons"/>
 
 <br/><br/>
 
@@ -78,7 +78,7 @@ fun_fact:
 
 **Robotics, AI & Tools**
 
-<img src="https://skillicons.dev/icons?i=ros,tensorflow,git,github,vscode" alt="Robotics Icons"/>
+<img src="https://skillicons.dev/icons?i=ros,tensorflow,git,github,vscode,linux,ros" alt="Robotics Icons"/>
 
 </div>
 
