@@ -38,7 +38,7 @@ role: Computer Engineering Student | Bosch Intern
 languages:
   - Spanish (Native)
   - English (B2)
-  - 日本語 (N4 Loading...)
+  - 日本語 (N4 in progress)
 
 current_focus:
   - Next.js + TypeScript Ecosystem
