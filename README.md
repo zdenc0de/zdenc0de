@@ -77,7 +77,7 @@ fun_fact:
 
 **Robotics, AI & Tools**
 
-<img src="https://skillicons.dev/icons?i=ros,tensorflow,git,github,vscode,linux,ros" alt="Robotics Icons"/>
+<img src="https://skillicons.dev/icons?i=ros,tensorflow,git,github,vscode,linux" alt="Robotics Icons"/>
 
 </div>
 
